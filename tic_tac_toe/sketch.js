@@ -109,7 +109,7 @@ function draw() {
     if (result == 'tie') {
       resultP.html('Tie!');
     } else {
-      resultP.html(`${result} wins!`);
+      resultP.html(`${result} wins the game!`);
     }
   }
 }
